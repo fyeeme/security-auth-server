@@ -1,0 +1,1 @@
+http://localhost:8080/oauth2/authorize?response_type=code&client_id=client&scope=read
